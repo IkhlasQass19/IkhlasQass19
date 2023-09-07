@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm QASSIMI IKHLAS</h1>
+<h3 align="center">A Software developer</h3>
+<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/101474129/216167103-29ae0c13-73b3-46d4-ac25-859791e382a4.gif"/>
+
+
 
 <p align="center">
     <img src="pics/header.png">
