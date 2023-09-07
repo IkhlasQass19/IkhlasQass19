@@ -82,11 +82,15 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ikhlas1936&count_private=true&theme=dark&show_icons=true" alt="ikhlas1936" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikhlas1936&hide_border=true&theme=dark&show_icons=true" />
-    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlas1936&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+  
 </p>
 
+<p align="center">
+	  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlas1936&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+/>
+</p>
 
 <hr />
 
