@@ -84,9 +84,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikhlas1936&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
-<p align="center">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ikhlas1936&theme=dark&show_icons=true" alt="ikhlas1936" />
-</p>
+
 
 <hr />
 
