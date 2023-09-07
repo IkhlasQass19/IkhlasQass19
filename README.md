@@ -14,13 +14,13 @@
 </p>
 
 
-## 👨🏻‍💻 &nbsp;About Me:
+## 👨🏻‍💻 &nbsp;About Me
 
 <p>Passionate and ambitious IT developer, I am currently looking for a stimulating internship. My training and in-depth technical skills allow me to take on challenges with ease. I am constantly motivated by innovative projects, creativity and professionalism. I would like to join a dynamic team where I could put my expertise and creativity into practice.</p>
 
 
 
-## 📚 Education:
+## 📚 Education
 
 - **Master's Degree in Computer Engineering**
   - University Mohammed Premier, Oujda, Morocco
@@ -34,7 +34,7 @@
   - University Mohammed Premier, Oujda, Morocco
   - 2019-2021
 
-## 🌟 Projects:
+## 🌟 Projects
 
 - **Insurance Management Application (March 2023 - June 2023)**
   - Mission: Create an application for managing medical insurance records.
@@ -84,6 +84,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikhlas1936&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlas1936&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <hr />
