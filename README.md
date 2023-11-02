@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/ikhlas-qassimi-25771b269">
+    <a href="[https://www.linkedin.com/in/ikhlas-qassimi-25771b269](https://ma.linkedin.com/in/ikhlasqassimi)">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:ikhlasqassimi1965@gmail.com">
