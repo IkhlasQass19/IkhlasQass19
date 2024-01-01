@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm QASSIMI IKHLAS</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A Software developer</h3>
 
 
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/ikhlas-qassimi-25771b269">
+    <a href="www.linkedin.com/in/oumaimaferhat">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:ikhlasqassimi1965@gmail.com">
+    <a href="mailto:oumaimaferhat62@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
@@ -83,15 +83,15 @@
 
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ikhlas1936&count_private=true&theme=dark&show_icons=true" alt="ikhlas1936" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikhlas1936&hide_border=true&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeEnchantress19&count_private=true&theme=dark&show_icons=true" alt="CodeEnchantress19" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeEnchantress19&hide_border=true&theme=dark&show_icons=true" />
 
   
 </p>
 
 <p align="center">
 	  <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlas1936&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ikhlas1936" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeEnchantress19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ikhlas1936" />
 </p>
 
 
