@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-    <a href="www.linkedin.com/in/oumaimaferhat">
+    <a href="www.linkedin.com/in/ikhlasqassimi/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:oumaimaferhat62@gmail.com">
+    <a href="mailto:ikhlasqassimi1936@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
@@ -83,8 +83,8 @@
 
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeEnchantress19&count_private=true&theme=dark&show_icons=true" alt="CodeEnchantress19" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeEnchantress19&hide_border=true&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IkhlasQass19&count_private=true&theme=dark&show_icons=true" alt="IkhlasQass19" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IkhlasQass19&hide_border=true&theme=dark&show_icons=true" />
 
   
 </p>
