@@ -83,7 +83,6 @@
 
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IkhlasQass19&count_private=true&theme=dark&show_icons=true"  />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IkhlasQass19&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
